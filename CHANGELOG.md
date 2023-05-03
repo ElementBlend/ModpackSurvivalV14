@@ -9,7 +9,7 @@ Total Mods: 273
 
 - Initial release
 
-** Added Mods**
+**Added Mods**
 
 - Chameleon
 - Extra cells
@@ -18,7 +18,7 @@ Total Mods: 273
 - Storage Drawers
 - Stupid things
 
-** Updated Mod**
+**Updated Mod**
 
 - Apple Core
 - Apple Skin
