@@ -15,17 +15,22 @@ Total Mods: 273
 - Extra cells
 - Ido
 - Obfuscate
+- Oauth
 - Storage Drawers
 - Stupid things
 
-**Updated Mod**
+**Updated Mods**
 
 - Apple Core
 - Apple Skin
 - Fast Workbench
+- Logistics Pipes
 - Open Computer
 - Random Patches
+- Xaeros Minimap
+- Xaeros Worldmap
 
-**Removed Mod**
+**Removed Mods**
 
 - Mine Together
+- Reauth
